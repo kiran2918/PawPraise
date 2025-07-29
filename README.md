@@ -18,7 +18,7 @@ Make sure you have the following installed on your machine:
 Clone the repository:
 
 ```bash
-  git clone https://github.com/prudhvirekula/PawPraise.git
+  git clone https://github.com/kiran2918/PawPraise.git
 ```
 
 Install server dependencies:
